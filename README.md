@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjMza2NvOHp3NHljdWtrNHkyMmtzZWpuZnp2cW9mNjd3bGdnMnp3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ABVK96HgZvWI9SBbXr/giphy.gif" width="100%" alt="Banner"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNxbGg5aHVjZHBpcmUyYnNmZ2R3eTAzYjh1M3MzbGszMDY1N3ljciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbzI2kV3Qrlpkh59e/giphy.gif" width="100%" alt="Tech Banner"/>
+
+
+
+
+
+
   
   <br/>
   
