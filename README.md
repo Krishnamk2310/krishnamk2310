@@ -40,8 +40,9 @@
 
 ### <p align="center">🚀 My Tech Stack</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nodejs,express,mongodb,tailwind,firebase,framermotion,vercel,git,github" alt="My Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,tailwind,firebase,framermotion,vercel,git,github" alt="My Tech Stack"/>
 </p>
+
 
 ---
 
