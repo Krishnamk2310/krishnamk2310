@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNxbGg5aHVjZHBpcmUyYnNmZ2R3eTAzYjh1M3MzbGszMDY1N3ljciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbzI2kV3Qrlpkh59e/giphy.gif" width="100%" alt="Tech Banner"/>
   
   <h1>Hi, I'm Markandey Krishna Mishra 👋</h1>
-
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Lifting+Code+and+Weights;MERN+Stack+Developer;Gym+Enthusiast" alt="Typing SVG" />
   </a>
