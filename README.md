@@ -4,7 +4,10 @@
   <h1>Hi, I'm Markandey Krishna Mishra 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Lifting+Code+and+Weights;MERN+Stack+Developer;Gym+Enthusiast" alt="Typing SVG" />
+    <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=8A2BE2&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Lifting+Weights+and+Writing+Code;MERN+Stack+Developer;Gym+Enthusiast" 
+    alt="Typing SVG" 
+  />
   </a>
   <br/>
 
