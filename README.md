@@ -36,14 +36,14 @@ I'm a final-year Computer Science student applying the discipline of the gym to 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamk2310&theme=radical&hide_border=true" width="48%" />
 </div>
 
----
+----
 
 ### 🛠️ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,tailwind,firebase,framermotion,vercel,git,github&perline=8" alt="Tech Stack"/>
 </div>
 
----
+----
 
 ### 🚀 Featured Projects
 
