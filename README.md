@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
   <h1>Hi, I'm Markandey Krishna Mishra 👋</h1>
 
   <a href="https://git.io/typing-svg">
