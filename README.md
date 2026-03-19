@@ -83,19 +83,41 @@ I'm a final-year Computer Science student applying the discipline of the gym to 
     </tr>
     <tr>
       <td align="center" width="50%">
-        <h3>💪 FITNESXIA</h3>
-        <a href="https://fitnesxia.vercel.app/"><img width="100%" src="https://media3.giphy.com/media/lOqNS2HUyN8OJV0CuF/giphy.gif" alt="Fitnesxia Preview"/></a><br/><br/>
-        <em>Modern fitness tracking & workout guidance platform.</em><br/><br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/><br/><br/>
-        <a href="https://fitnesxia.vercel.app/"><strong>[Live Demo]</strong></a>
-      </td>
-      <td align="center" width="50%">
-        <h3>🎬 Netflix Clone</h3>
-        <a href="https://netflix-clonemkm.vercel.app/"><img width="100%" src="https://media1.giphy.com/media/ILY5hzY86Qjh5NW6KW/giphy.gif" alt="Netflix Preview"/></a><br/><br/>
-        <em>A clean and modern UI clone of Netflix.</em><br/><br/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase"/><br/><br/>
-        <a href="https://netflix-clonemkm.vercel.app/"><strong>[Live Demo]</strong></a>
-      </td>
+  <h3>🧠 BrainBolt</h3>
+  <a href="https://github.com/Krishnamk2310/BrainBolt">
+    <img width="100%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="BrainBolt Preview"/>
+  </a><br/><br/>
+
+  <em>Adaptive infinite quiz platform with real-time difficulty adjustment and live leaderboards.</em><br/><br/>
+
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/><br/><br/>
+
+  <a href="https://github.com/Krishnamk2310/BrainBolt"><strong>[View Repository]</strong></a>
+<td align="center" width="50%">
+  <h3>🎵 Spotify Core</h3>
+  <a href="https://github.com/Krishnamk2310/spotify-core">
+    <img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Spotify Core Preview"/>
+  </a><br/><br/>
+
+  <em>High-performance backend for a Spotify-like platform with auth, music uploads, and playlist management.</em><br/><br/>
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/Bcrypt-003A70?style=flat-square&logo=security"/>
+  <img src="https://img.shields.io/badge/ImageKit-FF4F8B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Multer-FF6F00?style=flat-square"/><br/><br/>
+
+  <a href="https://github.com/Krishnamk2310/spotify-core"><strong>[View Repository]</strong></a>
+</td>
     </tr>
   </table>
 </div>
