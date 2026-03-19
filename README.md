@@ -20,11 +20,12 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a final-year Computer Science student applying the discipline of the gym to writing clean, efficient, and robust code.
-- 🚀 **Currently building:** Scalable applications using the **MERN Stack**.
-- 🧠 **Constantly learning:** Modern software architectures and web technologies.
-- 🤝 **Looking to collaborate:** On innovative and exciting open-source projects.
-- 💬 **Ask me about:** React, Node.js, or my current workout split!
+I'm a final-year Computer Science student focused on building reliable, scalable systems with a strong foundation in data structures, backend development, and system design.
+
+- 🚀 **Currently building:** Full-stack applications using the **MERN stack**, with a focus on API design, real-time systems, and performance.
+- 🧠 **Learning:** System design fundamentals, backend architecture, and integrating AI/LLMs into production workflows.
+- ⚙️ **Core interests:** Software Engineering, Backend Engineering, Product Development, and building scalable products end-to-end.
+- 🤝 **Open to:** Collaborating on backend-heavy or systems-oriented projects.
 - 📫 **Reach me at:** [krishnamk2310@gmail.com](mailto:krishnamk2310@gmail.com)
 
 ---
