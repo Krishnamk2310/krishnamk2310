@@ -28,15 +28,6 @@ I'm a final-year Computer Science student focused on building reliable, scalable
 - 🤝 **Open to:** Collaborating on backend-heavy or systems-oriented projects.
 - 📫 **Reach me at:** [krishnamk2310@gmail.com](mailto:krishnamk2310@gmail.com)
 
----
-
-### ⚡ GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnamk2310&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamk2310&theme=radical&hide_border=true" width="48%" />
-</div>
-
-----
 
 ### 🛠️ Tech Stack
 <div align="center">
@@ -121,6 +112,16 @@ I'm a final-year Computer Science student focused on building reliable, scalable
     </tr>
   </table>
 </div>
+
+---
+
+### ⚡ GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnamk2310&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamk2310&theme=radical&hide_border=true" width="48%" />
+</div>
+
+----
 
 ---
 
