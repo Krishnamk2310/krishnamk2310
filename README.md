@@ -42,12 +42,29 @@ I'm a final-year Computer Science student focused on building reliable, scalable
   <table width="100%">
     <tr>
       <td align="center" width="50%">
+        <h3>🌊 NextFlow</h3>
+        <a href="https://next-flow-ai-liard.vercel.app/">
+          <img width="100%" src="https://github.com/user-attachments/assets/daf92dde-1631-4c56-9028-161d180583ec" alt="NextFlow"/>
+        </a><br/><br/>
+        <em>Multimodal AI workflow builder with visual pipelines, real-time execution, and LLM-powered automation.</em><br/><br/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+        <img src="https://img.shields.io/badge/React%20Flow-6E56CF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Gemini%202.0-8E44AD?style=flat-square&logo=google-gemini"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma"/>
+        <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square"/><br/><br/>
+        <a href="https://next-flow-ai-liard.vercel.app/"><strong>[Live Demo]</strong></a> |
+        <a href="https://github.com/Krishnamk2310/NextFlow"><strong>[GitHub]</strong></a>
+      </td>
+      <td align="center" width="50%">
         <h3>✈️ Roamly AI Planner</h3>
         <a href="https://roamly-ai-planner.vercel.app/"><img width="100%" src="https://github.com/user-attachments/assets/cde7c51c-f750-483d-87fb-07292a862be7" alt="Roamly"/></a><br/><br/>
         <em>AI-powered personalized travel itinerary generator.</em><br/><br/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase"/> <img src="https://img.shields.io/badge/Gemini-8E44AD?style=flat-square&logo=google-gemini"/><br/><br/>
         <a href="https://roamly-ai-planner.vercel.app/"><strong>[Live Demo]</strong></a>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="50%">
         <h3>📊 FinDash</h3>
         <a href="https://github.com/Krishnamk2310/FinDash"><img width="100%" src="https://github.com/user-attachments/assets/c7fef368-b347-454e-a1a5-06aace88fea5" alt="FinDash"/></a><br/><br/>
@@ -55,8 +72,6 @@ I'm a final-year Computer Science student focused on building reliable, scalable
         <img src="https://img.shields.io/badge/React_TS-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase"/><br/><br/>
         <a href="https://github.com/Krishnamk2310/FinDash"><strong>[Source Code]</strong></a>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="50%">
         <h3>💻 DevTogether</h3>
         <a href="https://devstogether-2nml.onrender.com/"><img width="100%" src="https://github.com/user-attachments/assets/d8fea58a-b4f3-4b6a-957e-295c0ccd9dcb" alt="DevTogether"/></a><br/><br/>
@@ -64,51 +79,39 @@ I'm a final-year Computer Science student focused on building reliable, scalable
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/> <img src="https://img.shields.io/badge/Socket.io-000000?style=flat-square&logo=socket.io"/><br/><br/>
         <a href="https://devstogether-2nml.onrender.com/"><strong>[Live Demo]</strong></a>
       </td>
-      <td align="center" width="50%">
-        <h3>🤖 SyntaxSense AI</h3>
-        <a href="https://syntaxsense-ai-frontend.onrender.com/"><img width="100%" src="https://github.com/user-attachments/assets/9d8d41b1-642c-4c84-ae00-7f7ee7bb506f" alt="SyntaxSense"/></a><br/><br/>
-        <em>AI-powered code reviewer & explanation tool.</em><br/><br/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/> <img src="https://img.shields.io/badge/Gemini-8E44AD?style=flat-square&logo=google-gemini"/><br/><br/>
-        <a href="https://syntaxsense-ai-frontend.onrender.com/"><strong>[Live Demo]</strong></a>
-      </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-  <h3>🧠 BrainBolt</h3>
-  <a href="https://github.com/Krishnamk2310/BrainBolt">
-    <img width="100%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="BrainBolt Preview"/>
-  </a><br/><br/>
-
-  <em>Adaptive infinite quiz platform with real-time difficulty adjustment and live leaderboards.</em><br/><br/>
-
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/><br/><br/>
-
-  <a href="https://github.com/Krishnamk2310/BrainBolt"><strong>[View Repository]</strong></a>
-<td align="center" width="50%">
-  <h3>🎵 Spotify Core</h3>
-  <a href="https://github.com/Krishnamk2310/spotify-core">
-    <img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Spotify Core Preview"/>
-  </a><br/><br/>
-
-  <em>High-performance backend for a Spotify-like platform with auth, music uploads, and playlist management.</em><br/><br/>
-
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens"/>
-  <img src="https://img.shields.io/badge/Bcrypt-003A70?style=flat-square&logo=security"/>
-  <img src="https://img.shields.io/badge/ImageKit-FF4F8B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Multer-FF6F00?style=flat-square"/><br/><br/>
-
-  <a href="https://github.com/Krishnamk2310/spotify-core"><strong>[View Repository]</strong></a>
-</td>
+        <h3>🧠 BrainBolt</h3>
+        <a href="https://github.com/Krishnamk2310/BrainBolt">
+          <img width="100%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="BrainBolt Preview"/>
+        </a><br/><br/>
+        <em>Adaptive infinite quiz platform with real-time difficulty adjustment and live leaderboards.</em><br/><br/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/><br/><br/>
+        <a href="https://github.com/Krishnamk2310/BrainBolt"><strong>[View Repository]</strong></a>
+      </td>
+      <td align="center" width="50%">
+        <h3>🎵 Spotify Core</h3>
+        <a href="https://github.com/Krishnamk2310/spotify-core">
+          <img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Spotify Core Preview"/>
+        </a><br/><br/>
+        <em>High-performance backend for a Spotify-like platform with auth, music uploads, and playlist management.</em><br/><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens"/>
+        <img src="https://img.shields.io/badge/Bcrypt-003A70?style=flat-square&logo=security"/>
+        <img src="https://img.shields.io/badge/ImageKit-FF4F8B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Multer-FF6F00?style=flat-square"/><br/><br/>
+        <a href="https://github.com/Krishnamk2310/spotify-core"><strong>[View Repository]</strong></a>
+      </td>
     </tr>
   </table>
 </div>
