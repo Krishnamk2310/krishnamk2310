@@ -31,7 +31,7 @@ I'm a final-year Computer Science student focused on building reliable, scalable
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,tailwind,firebase,framermotion,vercel,git,github&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgresql,docker,tailwind,framermotion,vercel,git,github&perline=10" />
 </div>
 
 ----
