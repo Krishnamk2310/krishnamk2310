@@ -8,7 +8,7 @@
   alt="Typing SVG" 
 />
   </a>
-  <br/> 
+  <br/>
 
   <p>
     <a href="https://www.linkedin.com/in/markandey-krishna-mishra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
