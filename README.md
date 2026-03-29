@@ -119,18 +119,18 @@ I'm a final-year Computer Science student focused on building reliable, scalable
 ---
 
 ### ⚡ GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnamk2310&theme=radical&show_icons=true&hide_border=true&count_private=true&rank_icon=none" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamk2310&theme=radical&hide_border=true" width="48%" />
-</div>
 
-----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnamk2310&theme=radical&show_icons=true&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=krishnamk2310&theme=radical&hide_border=true" width="48%" />
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnamk2310&theme=radical&no-bg=true&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krishnamk2310&theme=radical&no-bg=true&no-frame=true&margin-w=15&column=7" />
 </div>
 
 ---
