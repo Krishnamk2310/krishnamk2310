@@ -119,10 +119,9 @@ I'm a final-year Computer Science student focused on building reliable, scalable
 ---
 
 ### ⚡ GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnamk2310&theme=radical&show_icons=true&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=krishnamk2310&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnamk2310&theme=radical&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&cache_seconds=0" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=krishnamk2310&theme=radical&hide_border=true&cache_seconds=0" width="48%" />
 </div>
 
 ---
